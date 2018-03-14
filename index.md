@@ -1,3 +1,4 @@
+<body>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sashankuseriq/uiq-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -60,4 +61,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             g.defer=true; g.async=true; g.src="https://feed.useriq.com/useriq.js"; s.parentNode.insertBefore(g,s);
           })();
         </script>
-      
+      </body>
